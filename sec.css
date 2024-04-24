@@ -1,0 +1,19 @@
+tbody{
+    background-image:url('bg.jpg');
+    background-repeat:no-repeat;
+    background-size:100% 100% ;
+  }
+table,th,tr,td{
+border: 2px solid black;
+border-radius: 10px;
+}
+h2{
+font-size: 220%;
+background-color: rgb(122, 141, 199);
+border: 2px solid rgb(0, 0, 0);
+border-radius: 10px;
+}
+body{
+  background-color: rgba(135, 236, 241, 0.945);
+
+}
